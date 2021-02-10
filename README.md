@@ -16,4 +16,4 @@ You will also see any lint errors in the console.
 
 ## Preview 
 
-![](public/King Clothes.png)
+![](public/preview.png)
