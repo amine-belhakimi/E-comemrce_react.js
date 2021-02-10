@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# E-commerce React.js app 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 It uses Firebase for the backend and authentification system and Stripe for the payment system
