@@ -16,4 +16,4 @@ You will also see any lint errors in the console.
 
 ## Preview 
 
-![alt text](https://github.com/amine-belhakimi/E-commerce_react.js/public/King Clothes.png)
+![](public/King Clothes.png)
