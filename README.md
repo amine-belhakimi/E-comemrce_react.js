@@ -21,4 +21,4 @@ You will also see any lint errors in the console.
 
 ## Information
 
-this project is based on the udemy [complete-react-developer-2019](http://www.reddit.com'https://www.udemy.com/course/complete-react-developer-zero-to-mastery/)
+this project is based on the udemy [complete-react-developer-2019](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/)
